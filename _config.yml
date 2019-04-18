@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Gustavo Millen"
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science and Machine Learning"
+  bio              : "Data Scientist"
   location         : "São Paulo, SP"
   email            :
   links:
@@ -130,6 +130,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/millengustavo/"
 
 # Site Footer
 footer:
@@ -145,13 +148,16 @@ footer:
       url: "https://github.com/millengustavo"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://gitlab.com/gustavomillen"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/millengustavo/"
 
 
 # Reading Files
