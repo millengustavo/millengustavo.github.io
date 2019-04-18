@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Gustavo Millen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science and Machine Learning"
   location         : "São Paulo, SP"
   email            :
@@ -301,4 +301,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
