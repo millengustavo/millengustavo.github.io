@@ -5,8 +5,14 @@ header:
   image: "/assets/images/cdm.jpg"
 ---
 
-I'm a Machine Learning, Deep Learning and Neuroscience researcher. Areas of expertise are concentrated in Classification Algorithms and EEG Signal Analysis.
+Technology enthusiast, avid Python programmer and DevOps practitioner. Worked in many Health Industry projects as Data Scientist doing from ad-hoc statistical analysis to Full Stack Machine Learning applications. Firm proponent of using cloud platforms like AWS and Google Cloud Provider to ensure safety and scalability of applications. 
 
-I'm also interested in Blockchain, Cryptocurrencies and Artificial Intelligence.
+Working with Biomedical and Health related data since my undergraduate degree. Experienced with several tools, including:
+Python (Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Jupyter Notebook, Dash, Flask, Tensorflow, Keras), SQL, Git, Docker, Linux, Javascript. 
 
-My main goal is to figure out how to connect these technologies, with the best in each of them, to leverage disruptive ideas.
+Led technology consulting projects starting with the Design Thinking to the Deployment and Monitoring for continuous improvement, using Agile methodologies of development. 
+
+Former neuroscience researcher at COPPE/UFRJ having studied Machine Learning and Deep Learning techniques applied to EEG signals. Hold a masters degree in Biomedical Engineering and an undergraduate degree in Mechatronic Engineering. Always learning through several courses and from participating in inspiring communities (Github, Meetups and social media). 
+
+Passionate about high performance, ownership and making meaningful impact with my work.
+
