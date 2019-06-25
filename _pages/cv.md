@@ -44,9 +44,9 @@ _Sep 2012 - Jul 2013_
 
 _Apr 2019 - Present_
 
--  Responsable for creating the algorithm and maintaining a live dashboard for fraud detection on the PBM (Pharmacy Benefit Management) program. Main technologies used were Python (Pandas, Flask, Dash by Plotly) and SQL.
+- Responsable for creating the algorithm and maintaining a live dashboard for fraud detection on the PBM (Pharmacy Benefit Management) program. Main technologies used were Python (Pandas, Flask, Dash by Plotly) and SQL.
 - Responsable for the design and implementation of the serverless solution for receiving data from new clients. Main technologies used were AWS Lambda, S3, CloudWatch, SNS, DynamoDB, RDS, Python and Terraform.
-- Automated the generation of clinical reports based on pharmaceutical consumption on the PBM program. Main technologies used were Python (Pandas, xslxwriter, smtp) and SQL.
+- Automated the generation of clinical reports based on pharmaceutical consumption on the PBM program. Main technologies used were Python (Pandas, xlsxwriter, smtp) and SQL.
 
 
 ## Eleva Partners (Technology Consulting Firm) - São Paulo, SP
