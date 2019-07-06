@@ -5,37 +5,6 @@ permalink: /cv/
 
 Gustavo Millen
 
-# Education	
-
-## Federal University of Rio de Janeiro (COPPE/UFRJ) - Rio de Janeiro, RJ
-
-**Master of Science in Biomedical Engineering**
-
-_Mar 2015 - Jun 2017_
-
-- Thesis: Brain connectivity as feature to classify motor tasks from same limb: human-robot interaction.
-- Experience with scientific methodology, statistical experiment design and evaluation, programming.
-- Worked with modeling of neural networks for classification of EEG signals.
-
-## Instituto Federal do Sudeste Mineiro - Juiz de Fora, MG
-
-**Bachelor in Mechatronics Engineering**
-
-_Aug 2009 - Dec 2014_
-
-- Thesis: Lung sound analysis using Wavelets and Entropy
-- Project: Development of vehicle for the dismantling of explosive artifacts.
-- Taught Calculus I as monitor.
-
-## Instituto Superior Técnico - Universidade de Lisboa - Lisboa, PT
-
-**Masters in Electrical and Computer Engineering**
-
-_Sep 2012 - Jul 2013_
-
-- Studied Robotics, Automation, Production Management, Control and Leadership.
-- Project: Modeling and Control of Marine Robotic Vehicles.
-
 # Experience
 
 ## Funcional Health Tech - São Paulo, SP
@@ -69,10 +38,41 @@ _Sep 2017 - Jan 2018_
 - Taught Brain Connectivity Estimators based on Multivariate Auto regressive Models (MVAR) for Masters students.
 - Programmed in MATLAB and Python for the course examples and exercises.
 
+# Education	
+
+## Federal University of Rio de Janeiro (COPPE/UFRJ) - Rio de Janeiro, RJ
+
+**Master of Science in Biomedical Engineering**
+
+_Mar 2015 - Jun 2017_
+
+- Thesis: Brain connectivity as feature to classify motor tasks from same limb: human-robot interaction.
+- Experience with scientific methodology, statistical experiment design and evaluation, programming.
+- Worked with modeling of neural networks for classification of EEG signals.
+
+## Instituto Federal do Sudeste Mineiro - Juiz de Fora, MG
+
+**Bachelor in Mechatronics Engineering**
+
+_Aug 2009 - Dec 2014_
+
+- Thesis: Lung sound analysis using Wavelets and Entropy
+- Project: Development of vehicle for the dismantling of explosive artifacts.
+- Taught Calculus I as monitor.
+
+## Instituto Superior Técnico - Universidade de Lisboa - Lisboa, PT
+
+**Masters in Electrical and Computer Engineering**
+
+_Sep 2012 - Jul 2013_
+
+- Studied Robotics, Automation, Production Management, Control and Leadership.
+- Project: Modeling and Control of Marine Robotic Vehicles.
+
 # Additional	
 
 ### Technical Skills: 
-SQL, Python, Statistics, Modeling, Optimization, Machine Learning algorithms (Deep Learning, Neural Networks, Bagging, Boosting, Decision Trees, Random Forest, Logistic Regression, Naive Bayes, Support Vector Machines, K-Means Clustering, Hierarchical Clustering), Keras, Pytorch, Tensorflow, Pandas, Scikit-learn (Sklearn), Numpy, SciPy, Git, AWS, Docker, Go, Blockchain, Continuous Integration and Continuous Delivery (CI/CD), Software Development, DevOps, Excel, PowerPoint, InVision, Linux, Terraform.
+SQL, Python, Statistics, Modeling, Optimization, Machine Learning algorithms (Deep Learning, Neural Networks, Bagging, Boosting, Decision Trees, Random Forest, Logistic Regression, Naive Bayes, Support Vector Machines, K-Means Clustering, Hierarchical Clustering), Keras, Pytorch, Tensorflow, Pandas, Scikit-learn (Sklearn), Numpy, SciPy, Git, AWS, Docker, Go, Blockchain, Continuous Integration and Continuous Delivery (CI/CD), Software Development, DevOps, Excel, PowerPoint, InVision, Linux, Terraform, Airflow.
 ### Soft Skills: 
 Agile, Scrum, OKR, Strategy, Design Thinking, Leadership, Communication.
 ### Languages: 
