@@ -38,7 +38,7 @@ Build a clear understanding of who you are communicating to, what you need them 
 
 # Choosing an effective visual
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/storytelling/visual.png" alt="visual">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/storytelling/visual.jpg" alt="visual">
 
 - **Simple text**: When you have a number or two that you want to communicate, think about using the numbers themselves. When you have more data that you want to show, generally a table or graph is the way to go.
 - **Tables** and **Graphs**: While tables interact with our verbal system, graphs interact with our visual system, which is faster at processing information.
