@@ -10,7 +10,7 @@ I was at Google's meetup a few weeks ago about DevOps and SRE.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innovation/selfie.jpeg" alt="meetup">
 
-While these themes are not part of the essence of Data Science such as statistics, math, and programming, it is possible to draw insights relevant to technology in general.
+While these themes are not part of the essence of Data Science such as statistics, math, and programming, it is possible to draw relevant insights to technology in general.
 
 In the term **DevOps**, there are morphologically two sectors:
 - **Developers** looking to implement new features quickly, which can mean innovation.
@@ -32,11 +32,11 @@ This concept, in addition to guiding the quality of operations, provides an inte
 
 Imagine that the service is being delivered at a consistency far above that agreed upon. For operations this is the perfect scenario, nothing fails, we have no errors.
 
-But this view is not 100% correct thinking about business in the medium and long term. If there is room to make more mistakes, the business must be free to innovate. This is where developers come in and can spend their error budget on new products or enhancements. 
+But this view is not 100% correct if you think about business in the medium and long term. If there is room to make more mistakes, the business must be free to innovate. This is where developers come in and can spend their error budget on new products or enhancements. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innovation/sre.jpeg" alt="sre">
 
-The error budget provides a metric that determines how unreliable the service is allowed to be. This metric removes the politics from negotiations when deciding how much risk to allow.
+The **error budget** provides a metric that determines how unreliable the service is allowed to be. This metric removes the politics from negotiations when deciding how much risk to allow.
 
 The main benefit of an error budget is that it provides a common incentive that allows both product development and SRE to focus on finding the right balance between innovation and reliability.
 
