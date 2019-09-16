@@ -6,7 +6,7 @@ header:
   image: "/assets/images/innovation/slide1.jpeg"
 ---
 
-I was at Google's meetup a few weeks ago about DevOps and SRE.
+I was at Google's meetup a few weeks ago about DevOps and SRE (*Site Reliability Engineering*).
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innovation/selfie.jpeg" alt="meetup">
 
