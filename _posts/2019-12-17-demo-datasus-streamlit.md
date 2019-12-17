@@ -165,7 +165,7 @@ The data we downloaded from DataSUS is not complete. Geographic coordinates of v
 
 A quick search on Google for converting from CEP to latitude and longitude has shown that we had some scripts that mixed R and Python to achieve this task. 
 
-Investigating the scripts further, it became clear that it was simple and valuable to implement this in Python. So, I removed the dependency of R to achieve the same result with just Python (https://github.com/millengustavo/cep_to_coords). 
+Investigating the scripts further, it became clear that it was simple and valuable to implement this in Python. So, I removed the dependency of R to achieve the same result with just Python [https://github.com/millengustavo/cep_to_coords](https://github.com/millengustavo/cep_to_coords). 
 
 ### Install geocode from source
 ```bash
@@ -268,13 +268,13 @@ df_enriched.to_parquet("../data/clean/dataset.parquet.gzip", compression="gzip",
 
 ## Creating the app using the Uber pickups example
 
-Streamlit according to the website is 
+Streamlit according to the [website](https://streamlit.io/) is 
 > “The fastest way to build custom ML tools”. 
 
 It is indeed a bold statement, but what sold me on it was the sentence on the subtitle:
 > “So you can stop spending time on frontend development and get back to what you do best.”.
 
-For this experiment, we are going to spend even less time on frontend development by using an example gently posted by the Streamlit team (https://github.com/streamlit/demo-uber-nyc-pickups). The demo presents the Uber pickups on New York City by hour. Our goal here is to replace pickups with deaths registered on SIM and New York City with the state of São Paulo. 
+For this experiment, we are going to spend even less time on frontend development by using an example gently posted by the Streamlit team [https://github.com/streamlit/demo-uber-nyc-pickups](https://github.com/streamlit/demo-uber-nyc-pickups). The demo presents the Uber pickups on New York City by hour. Our goal here is to replace pickups with deaths registered on SIM and New York City with the state of São Paulo. 
 
 There are only a few things we need to change in the code to adapt the application to our use. 
 
