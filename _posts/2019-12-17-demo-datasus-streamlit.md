@@ -84,7 +84,7 @@ From their [website](http://cnes.datasus.gov.br/):
 
 The process to download the data is simpler this time, they are already in a `.zip` file you can download from this link:
 
-ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_201910.ZIP
+[ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_201910.ZIP](ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_201910.ZIP)
 
 We are going to use only one `.csv` file from this data: `tbEstabelecimento201910.csv`
 
