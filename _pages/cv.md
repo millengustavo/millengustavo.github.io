@@ -13,8 +13,9 @@ Gustavo Millen
 
 _Apr 2019 - Present_
 
-- Responsable for creating the algorithm and maintaining a live dashboard for fraud detection on the PBM (Pharmacy Benefit Management) program. Main technologies used were Python (Pandas, Flask, Dash by Plotly) and SQL.
-- Responsable for the design and implementation of the serverless solution for receiving data from new clients. Main technologies used were AWS Lambda, S3, CloudWatch, SNS, DynamoDB, RDS, Python and Terraform.
+- Responsible for developing, delivering and monitoring multiple advanced analytics products such as: Forecast, Market Basket Analysis, Churn Prediction and Customer Lifetime Value.
+- Responsible for creating the algorithm and maintaining a live dashboard for fraud detection on the PBM (Pharmacy Benefit Management) program. Main technologies used were Python (Pandas, Flask, Dash by Plotly) and SQL.
+- Responsible for the design and implementation of the serverless solution for receiving data from new clients. Main technologies used were AWS Lambda, S3, CloudWatch, SNS, DynamoDB, RDS, Python and Terraform.
 - Automated the generation of clinical reports based on pharmaceutical consumption on the PBM program. Main technologies used were Python (Pandas, xlsxwriter, smtp) and SQL.
 
 
@@ -24,7 +25,7 @@ _Apr 2019 - Present_
 
 _May 2018 - Apr 2019_
 
-- Led the implementation of the Agile methodology with Scrum as framework on the company and adoption of management softwares to track OKRs such as: Trello (Kanban boards) and Slack (team communication).
+- Led the implementation of the Agile methodology with Scrum as framework on the company and adoption of management software to track OKRs such as: Trello (Kanban boards) and Slack (team communication).
 - Programmed a social media scraping bot in Python to periodically fetch data from brands. Used Natural Language Processing (NLP) techniques on the content to get marketing insights. Designed the PostgreSQL relational database to persist storage of the data on cloud providers: Amazon Web Services (AWS) and Google Cloud Provider (GCP). Exposed the results via API, using Flask, to clients.
 - Designed (Design Thinking and Strategy) and programmed a proof of concept permissioned blockchain (Hyperledger Fabric) for one of the largests logistics companies in Brazil. Programmed the smart contracts in Go (Golang), containerized using Docker and assisted the development of the frontend using React JS.
 - Created interactive Dashboards in Python (Dash by Plotly) for career management of musicians with data from social media analytics and Excel spreadsheets.
@@ -72,7 +73,7 @@ _Sep 2012 - Jul 2013_
 # Additional	
 
 ### Technical Skills: 
-SQL, Python, Statistics, Modeling, Optimization, Machine Learning algorithms (Deep Learning, Neural Networks, Bagging, Boosting, Decision Trees, Random Forest, Logistic Regression, Naive Bayes, Support Vector Machines, K-Means Clustering, Hierarchical Clustering), Keras, Pytorch, Tensorflow, Pandas, Scikit-learn (Sklearn), Numpy, SciPy, Git, AWS, Docker, Go, Blockchain, Continuous Integration and Continuous Delivery (CI/CD), Software Development, DevOps, Excel, PowerPoint, InVision, Linux, Terraform, Airflow.
+SQL, Python, Statistics, Modelling, Optimization, Machine Learning algorithms (Deep Learning, Neural Networks, Bagging, Boosting, Decision Trees, Random Forest, Logistic Regression, Naive Bayes, Support Vector Machines, K-Means Clustering, Hierarchical Clustering), Keras, Pytorch, Tensorflow, Pandas, Scikit-learn (Sklearn), Numpy, SciPy, Git, AWS, Docker, Go, Blockchain, Continuous Integration and Continuous Delivery (CI/CD), Software Development, DevOps, Excel, PowerPoint, InVision, Linux, Terraform, Airflow.
 ### Soft Skills: 
 Agile, Scrum, OKR, Strategy, Design Thinking, Leadership, Communication.
 ### Languages: 
