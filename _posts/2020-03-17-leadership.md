@@ -6,13 +6,9 @@ header:
   image: "/assets/images/leadership/leadership_book_cover.jpg"
 ---
 
-# Leadership Strategy and Tactics: Field Manual
-
-Author: Jocko Willink
-
-Those are the notes I took when reading the book to register for myself. I recommend reading the book for a more coherent view of the context in which each note is inserted.
-
 > What makes leadership so hard is dealing with people, and people are crazy. And the craziest person a leader has to deal with is themselves.
+
+Those are the notes I took when reading the book "Leadership Strategy and Tactics: Field Manual" by Jocko Willink. I recommend reading the book for a more coherent view of the context in which each note is inserted.
 
 # First Platoon: Detach
 
@@ -112,7 +108,6 @@ Those are the notes I took when reading the book to register for myself. I recom
 - Patience is appreciated and respected much more than a hot temper.
 - The less you talk, the more people listen. Don’t be the person who is always talking. Speak when you need to, but don’t talk just to talk.
 - There is nothing wrong with apologizing when you make a mistake. That is part of taking ownership.
-
 
 # Conclusion: It is All On You, But Not About You
 > “Leadership is all on you. But at the same time, leadership is not about you. Not at all. Leadership is about the team. The team is more important than you are. The moment you put your own interests above the team and above the mission is the moment you fail as a leader.”
