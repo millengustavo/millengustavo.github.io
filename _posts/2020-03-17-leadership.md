@@ -30,7 +30,6 @@ Those are the notes I took when reading the book to register for myself. I recom
 
 > "There is one type of person who can never become a good leader: a person who lacks humility. People who lack humility cannot improve because they don’t acknowledge their own weaknesses."
 
-
 - The good of the mission and the good of the team outweigh any personal concern a true leader has for themselves.
 - Good leaders do the right things for the right reasons; they work hard, support the team, and lead solid execution.
 - Ego is like reactive armor; the harder you push against it, the more it pushes back.
