@@ -6,6 +6,8 @@ header:
   image: "/assets/images/prophet_paper/prophet_paper.jpg"
 ---
 
+My notes and highlights on the paper.
+
 Authors: Sean J. Taylor and Benjamin Letham
 
 [Source](https://peerj.com/preprints/3190.pdf)

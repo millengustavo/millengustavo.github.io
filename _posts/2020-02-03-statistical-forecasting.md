@@ -6,7 +6,9 @@ header:
   image: "/assets/images/statistical_forecasting/statistical_forecasting.gif"
 ---
 
-Authors: Robert Nau
+My notes and highlights on the book.
+
+Author: Robert Nau
 
 [Available here](https://people.duke.edu/~rnau/411home.htm)
 > "This web site contains notes and materials for an advanced elective course on statistical forecasting that is taught at the Fuqua School of Business, Duke University. It covers linear regression and time series forecasting models as well as general principles of thoughtful data analysis."

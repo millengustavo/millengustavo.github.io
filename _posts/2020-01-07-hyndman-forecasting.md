@@ -6,6 +6,8 @@ header:
   image: "/assets/images/hyndman_forecasting/hyndman_forecasting.jpeg"
 ---
 
+My notes and highlights on the book.
+
 Authors: Rob J Hyndman and George Athanasopoulos
 
 [Available for free here (online)](https://otexts.com/fpp2)
