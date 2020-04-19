@@ -6,6 +6,8 @@ header:
   image: "/assets/images/handson_ml/handson_ml.jpeg"
 ---
 
+My notes and highlights on the book.
+
 Author: Aurélien Geron
 
 # Table of Contents
