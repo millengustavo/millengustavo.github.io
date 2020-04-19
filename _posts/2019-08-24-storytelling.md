@@ -1,7 +1,7 @@
 ---
 title: "Storytelling with Data"
 date: 2019-08-24
-tags: [data science, storytelling, data driven]
+tags: [data science, storytelling, data driven, book]
 header:
   image: "/assets/images/storytelling/storytelling.jpg"
 ---
