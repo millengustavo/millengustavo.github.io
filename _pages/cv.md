@@ -13,11 +13,11 @@ Gustavo Millen
 
 _Apr 2019 - Present_
 
-- Responsible for developing, delivering and monitoring multiple advanced analytics products such as: Forecast, Market Basket Analysis, Churn Prediction and Customer Lifetime Value.
-- Responsible for creating the algorithm and maintaining a live dashboard for fraud detection on the PBM (Pharmacy Benefit Management) program. Main technologies used were Python (Pandas, Flask, Dash by Plotly) and SQL.
-- Responsible for the design and implementation of the serverless solution for receiving data from new clients. Main technologies used were AWS Lambda, S3, CloudWatch, SNS, DynamoDB, RDS, Python and Terraform.
-- Automated the generation of clinical reports based on pharmaceutical consumption on the PBM program. Main technologies used were Python (Pandas, xlsxwriter, smtp) and SQL.
-
+- Led the tech team responsible for LATAM clients in projects outside Brazil. Developed and deployed data engineering pipelines, data visualization tools and machine learning models to big pharmacy chains (over 5 million users).
+- Responsible for developing, deploying and monitoring multiple advanced analytics products such as: Time Series Forecasting, Causal Inference, Market Basket Analysis, Churn Prediction, Customer Lifetime Value and Recommendation Systems.
+- Responsible for creating the algorithm and maintaining a live dashboard for fraud detection on the PBM (Pharmacy Benefit Management) program. Main technologies: Python (Pandas, Flask, Dash by Plotly) and SQL.
+- Responsible for the design and implementation of the serverless data engineering solution for receiving, modeling and processing data from new clients. Main technologies: AWS Lambda, S3, CloudWatch, SNS, SageMaker, RDS (PostgreSQL and MySQL), Python and Terraform.
+- Automated the generation of clinical reports based on pharmaceutical consumption on the PBM program. Main technologies: Python (Pandas, xlsxwriter, smtp), AWS Batch, Docker, AWS ECR/ECS, Airflow and SQL.
 
 ## Eleva Partners (Technology Consulting Firm) - São Paulo, SP
 
@@ -25,18 +25,19 @@ _Apr 2019 - Present_
 
 _May 2018 - Apr 2019_
 
-- Led the implementation of the Agile methodology with Scrum as framework on the company and adoption of management software to track OKRs such as: Trello (Kanban boards) and Slack (team communication).
 - Programmed a social media scraping bot in Python to periodically fetch data from brands. Used Natural Language Processing (NLP) techniques on the content to get marketing insights. Designed the PostgreSQL relational database to persist storage of the data on cloud providers: Amazon Web Services (AWS) and Google Cloud Provider (GCP). Exposed the results via API, using Flask, to clients.
 - Designed (Design Thinking and Strategy) and programmed a proof of concept permissioned blockchain (Hyperledger Fabric) for one of the largests logistics companies in Brazil. Programmed the smart contracts in Go (Golang), containerized using Docker and assisted the development of the frontend using React JS.
 - Created interactive Dashboards in Python (Dash by Plotly) for career management of musicians with data from social media analytics and Excel spreadsheets.
+- Led the implementation of the Agile methodology with Scrum as framework on the company and adoption of management software to track OKRs such as: Trello (Kanban boards) and Slack (team communication).
 
 ## Federal University of Rio de Janeiro (COPPE/UFRJ) - Rio de Janeiro, RJ
 
 **Research and Teaching Assistant, Digital Signal Processing**
 
-_Sep 2017 - Jan 2018_
+_Mar 2015 - Apr 2018_
 
-- Taught Brain Connectivity Estimators based on Multivariate Auto regressive Models (MVAR) for Masters students.
+- Worked at the Biomedical Engineering Digital Signal Processing laboratory performing statistical analysis and modeling from electroencephalogram (EEG) signals.
+- Taught Brain Connectivity Estimators based on Multivariate Auto regressive Models (MVAR) for MSc students.
 - Programmed in MATLAB and Python for the course examples and exercises.
 
 # Education	
