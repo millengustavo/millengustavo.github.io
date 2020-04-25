@@ -12,6 +12,7 @@ Pacote Python para transformar CEP em latitude e longitude
 
 # Como usar:
 1. Instale:
+
 ```bash
 git clone https://github.com/millengustavo/cep-to-coords.git
 cd cep-to-coords
@@ -31,6 +32,7 @@ Latitude: -22.9864082, Longitude: -43.189592
 ```
 
 # Testando
+
 ```bash
 python -m unittest discover
 ```
