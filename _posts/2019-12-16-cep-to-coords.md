@@ -20,12 +20,13 @@ pip install -e .
 ```
 
 2. Converta um CEP para latitude e longitude:
+
 ```python
 from cep_to_coords.geocode import cep_to_coords
 
 lat, lon = cep_to_coords('22070-900')
 
->>> print(f'Latitude: {lat}, Longitude: {lon}')
+print(f'Latitude: {lat}, Longitude: {lon}')
 Latitude: -22.9864082, Longitude: -43.189592
 ```
 
@@ -36,4 +37,4 @@ python -m unittest discover
 
 # Documentação
 
-https://cep-to-coords.readthedocs.io/en/latest/
+[https://cep-to-coords.readthedocs.io/en/latest/](https://cep-to-coords.readthedocs.io/en/latest/)
