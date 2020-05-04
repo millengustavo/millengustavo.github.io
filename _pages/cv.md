@@ -13,11 +13,14 @@ Gustavo Millen
 
 _Apr 2019 - Present_
 
-- Led the tech team responsible for LATAM clients in projects outside Brazil. Developed and deployed data engineering pipelines, data visualization tools and machine learning models to big pharmacy chains (over 5 million users).
-- Responsible for developing, deploying and monitoring multiple advanced analytics products such as: Time Series Forecasting, Causal Inference, Market Basket Analysis, Churn Prediction, Customer Lifetime Value and Recommendation Systems.
-- Responsible for creating the algorithm and maintaining a live dashboard for fraud detection on the PBM (Pharmacy Benefit Management) program. Main technologies: Python (Pandas, Flask, Dash by Plotly) and SQL.
-- Responsible for the design and implementation of the serverless data engineering solution for receiving, modeling and processing data from new clients. Main technologies: AWS Lambda, S3, CloudWatch, SNS, SageMaker, RDS (PostgreSQL and MySQL), Python and Terraform.
-- Automated the generation of clinical reports based on pharmaceutical consumption on the PBM program. Main technologies: Python (Pandas, xlsxwriter, smtp), AWS Batch, Docker, AWS ECR/ECS, Airflow and SQL.
+- Led the tech team responsible for LATAM clients in projects outside Brazil. Developed and deployed data engineering pipelines, data visualization tools and machine learning models to big pharmacy chains generating value from data for over 5 million users.
+- Developed Forecast models to ensure the most efficient allocation of resources making our customers faster than the market in making strategic decisions.
+- Developed a self-service system based on Causal Inference that allows business stakeholders to answer questions such as: What impact did my marketing campaign have on sales? Was changing the discount percentage efficient in attracting new consumers?
+- Responsible for defining groups of customers with higher business value (Customer Lifetime Value - CLV) guiding marketing strategies for retaining or recovering these customers (Churn prediction).
+- Assisted business partners in their e-commerce systems to increase their sales and improve their brand perception with customers with the development of Recommendation Systems and Market Basket Analysis.
+- Responsible for creating the algorithm and maintaining a live dashboard for fraud detection on the PBM (Pharmacy Benefit Management) program greatly improving the audit team analytical capacity.
+- Responsible for the design and implementation of the serverless data engineering solution for receiving, modeling and processing data from new clients reducing infrastructure costs and reducing time to value. Technologies: AWS Lambda, S3, CloudWatch, SNS, SageMaker, RDS (PostgreSQL and MySQL), Python and Terraform.
+- Automated the generation of clinical reports based on pharmaceutical consumption on the PBM program. Technologies: Python, AWS Batch, Docker, AWS ECR/ECS, Airflow and SQL.
 
 ## Eleva Partners (Technology Consulting Firm) - São Paulo, SP
 
