@@ -9,7 +9,7 @@ Gustavo Millen
 
 ## Funcional Health Tech - São Paulo, SP
 
-**Data Scientist, Health Analytics**
+**Data Science Specialist**
 
 _Apr 2019 - Present_
 
