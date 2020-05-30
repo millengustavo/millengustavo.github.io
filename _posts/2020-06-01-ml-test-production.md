@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning: tests and production"
-date: 2020-05-22
+date: 2020-06-01
 tags: [tests, machine learning, deploy]
 header:
   image: "/assets/images/ml_test_production/score.PNG"
