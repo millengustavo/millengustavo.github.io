@@ -3,14 +3,14 @@ title: "Machine Learning: tests and production"
 date: 2020-06-01
 tags: [tests, machine learning, deploy]
 header:
-  image: "/assets/images/ml_test_production/score.PNG"
+  image: "/assets/images/ml_test_production/systems_comparison.PNG"
 ---
 
 > "Creating reliable, production-level machine learning systems brings on a host of concerns not found in small toy examples or even large offline research experiments. Testing and monitoring are key considerations for ensuring the production-readiness of an ML system, and for reducing technical debt of ML systems." - [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/)
 
 I recently read the excellent book written by Emmanuel Ameisen: [Building Machine Learning Powered Applications Going from Idea to Product](http://shop.oreilly.com/product/0636920215912.do)
 
-I definitely recommend the book to anyone involved in any stage of the process of developing and implementing products that use Machine Learning.
+I definitely recommend the book to people involved at any stage in the process of developing and implementing products that use Machine Learning.
 
 # The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction
 A good reference I found in chapter 6 of the book entitled: Debug your ML problems, was the article written by Google engineers: [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/)
@@ -49,6 +49,14 @@ Unlike manually coded systems, the behavior of machine learning systems depends 
 - The importance of **frameworks**: pipeline platforms may allow building generic integration tests
 
 # Conclusion
+Deploying a machine learning system with monitoring is a very complex task. This is a problem faced by virtually all players in the market who are starting their journey with data.
+
+A good first step on this journey is to organize your data pipeline and use managed environments in the cloud for the ML tasks:
+- Amazon SageMaker
+- Google Cloud AI Platform
+- Azure Machine Learning Studio
+- Databricks
+
 Even if we do not face the scale of some problems mentioned in the article, it is worth reflecting on how we can improve what we do today to reduce technical debt in the future.
 
 
@@ -57,3 +65,5 @@ Even if we do not face the scale of some problems mentioned in the article, it i
 - [Building Machine Learning Powered Applications Going from Idea to Product - Emmanuel Ameisen](http://shop.oreilly.com/product/0636920215912.do)
 - [ML in Production blog](https://mlinproduction.com/)
 - [What is your machine learning test score?](https://speakerdeck.com/trallard/what-is-your-ml-test-score)
+- [MLflow: A Machine Learning Lifecycle Platform](https://github.com/mlflow/mlflow)
+- [Databricks for Machine Learning](https://databricks.com/solutions/machine-learning)
