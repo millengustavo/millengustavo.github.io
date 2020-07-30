@@ -11,8 +11,10 @@ Pacote Python para transformar CEP em latitude e longitude
 [https://github.com/millengustavo/cep-to-coords](https://github.com/millengustavo/cep-to-coords)
 
 # Como usar:
+
 1. Instale:
-```bash
+
+```
 git clone https://github.com/millengustavo/cep-to-coords.git
 cd cep-to-coords
 git checkout master
@@ -20,7 +22,8 @@ pip install -e .
 ```
 
 2. Converta um CEP para latitude e longitude:
-```python
+
+```
 from cep_to_coords.convert import cep_to_coords
 
 
@@ -31,13 +34,16 @@ print(coordenadas)
 ```
 
 *Opcional - Usando o [https://cepaberto.com/](https://cepaberto.com/)* 
+
 > Para usar esse conversor você precisa se cadastrar no site e exportar seu token como variável de ambiente `CEP_ABERTO_TOKEN`
 
-```bash
+
+```
 export CEP_ABERTO_TOKEN='seu_token'
 ```
 
-```python
+
+```
 from cep_to_coords.convert import cep_to_coords
 from cep_to_coords.strategies import CEPAbertoConverter
 
@@ -49,7 +55,8 @@ print(coordenadas)
 ```
 
 # Testando
-```bash
+
+```
 python -m unittest discover
 ```
 
