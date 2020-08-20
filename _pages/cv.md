@@ -7,11 +7,17 @@ Gustavo Millen
 
 # Experience
 
+## globo.com - São Paulo, SP
+
+**Senior Data Scientist**
+
+_Jul 2020 - Present_
+
 ## Funcional Health Tech - São Paulo, SP
 
 **Data Science Specialist**
 
-_Apr 2019 - Present_
+_Apr 2019 - Jul 2020_
 
 - Led the tech team responsible for LATAM clients in projects outside Brazil. Developed and deployed data engineering pipelines, data visualization tools and machine learning models to big pharmacy chains generating value from data for over 5 million users.
 - Developed Forecast models to ensure the most efficient allocation of resources making our customers faster than the market in making strategic decisions.
