@@ -4,7 +4,6 @@ date: 2020-08-22
 tags: [book, code, python, design patterns]
 header:
   image: "/assets/images/python_design_patterns/python_design_patterns.jpg"
-image_url: "/assets/images/python_design_patterns/python_design_patterns.jpg"
 ---
 
 My notes and highlights on the book.
